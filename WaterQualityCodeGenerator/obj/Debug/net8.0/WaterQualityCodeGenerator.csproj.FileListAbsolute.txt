@@ -1,0 +1,14 @@
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\bin\Debug\net8.0\WaterQualityCodeGenerator.exe
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\bin\Debug\net8.0\WaterQualityCodeGenerator.deps.json
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\bin\Debug\net8.0\WaterQualityCodeGenerator.runtimeconfig.json
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\bin\Debug\net8.0\WaterQualityCodeGenerator.dll
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\bin\Debug\net8.0\WaterQualityCodeGenerator.pdb
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\obj\Debug\net8.0\WaterQualityCodeGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\obj\Debug\net8.0\WaterQualityCodeGenerator.AssemblyInfoInputs.cache
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\obj\Debug\net8.0\WaterQualityCodeGenerator.AssemblyInfo.cs
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\obj\Debug\net8.0\WaterQualityCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\obj\Debug\net8.0\WaterQualityCodeGenerator.dll
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\obj\Debug\net8.0\refint\WaterQualityCodeGenerator.dll
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\obj\Debug\net8.0\WaterQualityCodeGenerator.pdb
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\obj\Debug\net8.0\WaterQualityCodeGenerator.genruntimeconfig.cache
+C:\Users\Voznenko\OneDrive\Desktop\WaterQualityLab5\WaterQualityLab5\WaterQualityCodeGenerator\obj\Debug\net8.0\ref\WaterQualityCodeGenerator.dll
